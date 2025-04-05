@@ -1,0 +1,173 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[3]!./components/MajorEnterprise.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************/
+
+.company-list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4f4f4;
+  padding: 20px; 
+  margin: 0 auto;
+  width: 100%; 
+  max-width: 1600px; 
+  border-radius: 10px; 
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+}
+
+/* Header styling */
+.header {
+  text-align: center;
+  margin-bottom: 20px; 
+}
+
+.heading {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Image container */
+.image-container {
+  display: flex;
+  justify-content: center; 
+  width: 100%;
+  margin-top: 0; 
+  margin-bottom: 0; 
+  padding: 0; 
+}
+
+/* Image styling */
+.enterprise-image {
+  width: 100%; 
+  max-width: 800px;  
+  height: auto; 
+  border-radius: 8px; 
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+}
+
+/* Media Queries for Responsive Design */
+@media (max-width: 1024px) {
+  .heading {
+    font-size: 1.5rem; 
+  }
+  
+  .enterprise-image {
+    max-width: 100%; 
+  }
+}
+
+@media (max-width: 768px) {
+  .company-list-container {
+    padding: 15px; 
+  }
+
+  .heading {
+    font-size: 1.25rem; 
+  }
+
+  .enterprise-image {
+    max-width: 100%; 
+  }
+}
+
+/*!***********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[3]!./components/TeamMember.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************/
+/* Team Member Container */
+.team-members-container {
+    text-align: center;  
+    padding: 20px;
+    max-width: 1600px;  
+    margin: 0 auto; 
+  }
+  
+  .team-members-heading {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  /* Team List container */
+  .team-list {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr); 
+    gap: 20px;  
+    justify-items: center; 
+    margin-top: 20px;
+  }
+  
+  /* Individual Team Member Card */
+  .team-member {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%; 
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  /* Hover effect for the team member card */
+  .team-member:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Image Styling */
+  .team-member-photo {
+    width: 120px;  
+    height: 120px; 
+    -o-object-fit: cover; 
+       object-fit: cover;  
+    border-radius: 50%;  
+    margin-bottom: 15px;  
+    display: block;  
+    margin-left: auto;
+    margin-right: auto;  
+  }
+  
+  /* Team Member Name */
+  .team-member-name {
+    font-size: 0.9rem;
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  
+  /* Team Member Designation */
+  .team-member-designation {
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  /* Responsive Styling */
+  @media (max-width: 1024px) {
+    .team-list {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .team-list {
+      grid-template-columns: repeat(2, 1fr); 
+    }
+    .team-member {
+      width: 90%; 
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .team-list {
+      grid-template-columns: 1fr; 
+    }
+  }
+  

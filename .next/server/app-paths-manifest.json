@@ -1,0 +1,7 @@
+{
+  "/about/page": "app/about/page.js",
+  "/about/life-at-beauroi/page": "app/about/life-at-beauroi/page.js",
+  "/csr/page": "app/csr/page.js",
+  "/page": "app/page.js",
+  "/services/page": "app/services/page.js"
+}

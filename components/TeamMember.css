@@ -1,0 +1,92 @@
+/* Team Member Container */
+.team-members-container {
+    text-align: center;  
+    padding: 20px;
+    max-width: 1600px;  
+    margin: 0 auto; 
+  }
+  
+  .team-members-heading {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  /* Team List container */
+  .team-list {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr); 
+    gap: 20px;  
+    justify-items: center; 
+    margin-top: 20px;
+  }
+  
+  /* Individual Team Member Card */
+  .team-member {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%; 
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  /* Hover effect for the team member card */
+  .team-member:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Image Styling */
+  .team-member-photo {
+    width: 120px;  
+    height: 120px; 
+    object-fit: cover;  
+    border-radius: 50%;  
+    margin-bottom: 15px;  
+    display: block;  
+    margin-left: auto;
+    margin-right: auto;  
+  }
+  
+  /* Team Member Name */
+  .team-member-name {
+    font-size: 0.9rem;
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  
+  /* Team Member Designation */
+  .team-member-designation {
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  /* Responsive Styling */
+  @media (max-width: 1024px) {
+    .team-list {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .team-list {
+      grid-template-columns: repeat(2, 1fr); 
+    }
+    .team-member {
+      width: 90%; 
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .team-list {
+      grid-template-columns: 1fr; 
+    }
+  }
+  

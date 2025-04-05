@@ -1,0 +1,60 @@
+/* Basic styling for the navbar */
+.header {
+    position: relative;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+  }
+  
+  .nav-list {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+  }
+  
+  .navbar .submenu {
+    display: none; /* Hide submenus by default */
+  }
+  
+  .navbar .submenu.block {
+    display: block; /* Show submenus on hover */
+  }
+  
+  /* Mobile Hamburger Menu */
+  @media (max-width: 768px) {
+    .navbar {
+      display: block;
+    }
+  
+    .nav-list {
+      display: none; /* Hide menu by default */
+      flex-direction: column;
+      width: 100%;
+      position: absolute;
+      top: 60px;
+      left: 0;
+      background-color: #fff;
+      padding: 10px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+  
+    .navbar.open .nav-list {
+      display: flex; /* Show menu when navbar is toggled */
+    }
+  
+    .submenu {
+      position: absolute;
+      left: 0;
+      width: 100%;
+      top: 100%;
+    }
+  
+    .hamburger-menu {
+      display: block; /* Show hamburger button */
+    }
+  }
+  
