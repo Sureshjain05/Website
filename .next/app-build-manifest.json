@@ -1,66 +1,180 @@
 {
   "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/chunks/app/_not-found/page-aa1ae66a2423d272.js"
+    ],
     "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
-    ],
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
-    ],
-    "/about/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/about/page.css",
-      "static/chunks/app/about/page.js"
-    ],
-    "/services/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/services/page.js"
-    ],
-    "/services/ai/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/services/ai/page.js"
-    ],
-    "/services/multicloud-computing/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/services/multicloud-computing/page.js"
-    ],
-    "/casestudies/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/casestudies/page.js"
-    ],
-    "/joinus/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/joinus/page.js"
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/css/0b93491634c0de68.css",
+      "static/chunks/970-ce3d9b395f94ecf7.js",
+      "static/chunks/173-5771558d49fd47cf.js",
+      "static/chunks/app/layout-1968c1e48efdcbfb.js"
     ],
     "/about/life-at-beauroi/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/about/life-at-beauroi/page.js"
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/chunks/9081a741-833cb34dd8bd6939.js",
+      "static/chunks/734-494e7806f1e99d1d.js",
+      "static/chunks/app/about/life-at-beauroi/page-3fae70e8dbcd9dae.js"
     ],
     "/apply/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/apply/page.js"
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/chunks/app/apply/page-dc44efe2ebb5326c.js"
     ],
-    "/csr/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/csr/page.js"
+    "/about/page": [
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/css/9b7219cb987f3e80.css",
+      "static/chunks/970-ce3d9b395f94ecf7.js",
+      "static/chunks/app/about/page-227f19de6ef8a0d5.js"
     ],
     "/contact/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/contact/page.js"
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/chunks/970-ce3d9b395f94ecf7.js",
+      "static/chunks/431-d4976dcb9fe9886c.js",
+      "static/chunks/797-ea4bd042fe51c3df.js",
+      "static/chunks/app/contact/page-fc3ef33a505afe78.js"
+    ],
+    "/casestudies/page": [
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/chunks/app/casestudies/page-e017b0c1eb5a01b6.js"
+    ],
+    "/csr/page": [
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/chunks/970-ce3d9b395f94ecf7.js",
+      "static/chunks/app/csr/page-6c9f4c9827936b76.js"
+    ],
+    "/service-form/page": [
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/chunks/970-ce3d9b395f94ecf7.js",
+      "static/chunks/431-d4976dcb9fe9886c.js",
+      "static/chunks/797-ea4bd042fe51c3df.js",
+      "static/chunks/app/service-form/page-5b522c858dc3cf51.js"
+    ],
+    "/joinus/page": [
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/chunks/app/joinus/page-b1efa0eaa5f0e1b6.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/chunks/970-ce3d9b395f94ecf7.js",
+      "static/chunks/173-5771558d49fd47cf.js",
+      "static/chunks/431-d4976dcb9fe9886c.js",
+      "static/chunks/797-ea4bd042fe51c3df.js",
+      "static/chunks/app/page-8827ada3905360a2.js"
+    ],
+    "/partner/cloud/page": [
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/chunks/9081a741-833cb34dd8bd6939.js",
+      "static/chunks/app/partner/cloud/page-ac5ec11b66f07a8e.js"
+    ],
+    "/services/ai/page": [
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/chunks/9081a741-833cb34dd8bd6939.js",
+      "static/chunks/app/services/ai/page-12325649211003a3.js"
+    ],
+    "/services/24-7/page": [
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/chunks/9081a741-833cb34dd8bd6939.js",
+      "static/chunks/app/services/24-7/page-34e0feeecc9fd66e.js"
+    ],
+    "/services/application-development/page": [
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/chunks/9081a741-833cb34dd8bd6939.js",
+      "static/chunks/app/services/application-development/page-a285cf8609a71b85.js"
+    ],
+    "/services/data-analytics/page": [
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/chunks/9081a741-833cb34dd8bd6939.js",
+      "static/chunks/app/services/data-analytics/page-4d662768f470e25a.js"
+    ],
+    "/services/it-consultation/page": [
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/chunks/9081a741-833cb34dd8bd6939.js",
+      "static/chunks/app/services/it-consultation/page-aaf2cc334bfa761c.js"
+    ],
+    "/services/multicloud-computing/page": [
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/chunks/9081a741-833cb34dd8bd6939.js",
+      "static/chunks/app/services/multicloud-computing/page-80b94850749f7109.js"
+    ],
+    "/services/page": [
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/chunks/970-ce3d9b395f94ecf7.js",
+      "static/chunks/173-5771558d49fd47cf.js",
+      "static/chunks/app/services/page-654a2ce5103ac98a.js"
+    ],
+    "/services/training-development/page": [
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/chunks/9081a741-833cb34dd8bd6939.js",
+      "static/chunks/app/services/training-development/page-17d07876f725a64d.js"
+    ],
+    "/services/time-material/page": [
+      "static/chunks/webpack-f31f9ce0a50741ab.js",
+      "static/chunks/4bd1b696-55a6966840969d5a.js",
+      "static/chunks/517-ff75be1046717558.js",
+      "static/chunks/main-app-0fe7bf91b974766c.js",
+      "static/chunks/9081a741-833cb34dd8bd6939.js",
+      "static/chunks/app/services/time-material/page-daa43328f52dc5f5.js"
     ]
   }
 }

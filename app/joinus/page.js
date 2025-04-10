@@ -67,7 +67,7 @@ const Page = () => {
             onClick={() => router.push("/about/life-at-beauroi")}
           >
             <div className="bg-blue-500 text-white px-6 py-2 rounded-md shadow-md text-lg font-semibold hover:scale-105">
-              Life at BeauRoi &gt;
+              Life at Beau Roi &gt;
             </div>
           </div>
         </div>
@@ -101,7 +101,7 @@ const Page = () => {
         <section className="bg-gray-100 py-12 px-4 md:px-16 w-full">
   <div className="max-w-6xl mx-auto">
     <h2 className="text-3xl md:text-4xl font-bold text-gray-900 flex items-center">
-      <span className="border-l-4 border-gray-800 mr-3 h-8"></span> Why BeauRoi
+      <span className="border-l-4 border-gray-800 mr-3 h-8"></span> Why Beau Roi
     </h2>
 
     {/* Tab Navigation */}

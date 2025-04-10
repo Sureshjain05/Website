@@ -19,13 +19,13 @@ const bankingData = [
   {
     title: '"Smarter Decisions with PETALL!"',
     description:
-      "Using BeauRoi PETALL Platform has transformed our operations! It's fast, user-friendly, and simplifies our workflow. The real-time insights make tracking performance effortless, helping us grow our business with confidence.",
+      "Using Beau Roi PETALL Platform has transformed our operations! It's fast, user-friendly, and simplifies our workflow. The real-time insights make tracking performance effortless, helping us grow our business with confidence.",
     image: "/PETALL.webp",
   },
   {
     title: '"A Perfect Solution for Our Online Store!"',
     description:
-      "BeauRoi made setting up my online store effortless! They provided a user-friendly, fast, and feature-rich platform tailored to my needs. Managing inventory, orders, and payments is seamless, helping me grow my business with ease. Highly recommended for anyone looking for a custom eCommerce solution",
+      "Beau Roi made setting up my online store effortless! They provided a user-friendly, fast, and feature-rich platform tailored to my needs. Managing inventory, orders, and payments is seamless, helping me grow my business with ease. Highly recommended for anyone looking for a custom eCommerce solution",
     image: "/Ecom.avif",
   },
   {
@@ -70,7 +70,7 @@ const Page = () => {
         <br />
       </h1>
       <p className="text-lg text-gray-700 mt-4">
-      Beauroi simplifies multi-cloud management with expert oversight, cost efficiency, and performance optimization, ensuring a seamless and strategic cloud journey.
+      Beau Roi simplifies multi-cloud management with expert oversight, cost efficiency, and performance optimization, ensuring a seamless and strategic cloud journey.
       </p>
     </div>
 
@@ -95,7 +95,7 @@ const Page = () => {
     Multi-Cloud: Simplifying Complexity
     </h2>
     <p className="text-gray-700 mt-4 leading-relaxed">
-    In the whirlwind of today's business landscape, managing a multi-cloud ecosystem might seem intricate and overwhelming. Organizations often grapple with juggling multiple cloud platforms, ensuring seamless integration, optimizing costs, and maintaining security across diverse environments.<br/><br/> The complexity of monitoring performance, scaling resources, and aligning cloud strategies with business goals can be a challenge. However, with the right expertise and tools, multi-cloud management transforms from a burden into a competitive advantage. That’s where Beauroi comes in—empowering businesses with the clarity and control they need to navigate their cloud ecosystems effectively.
+    In the whirlwind of today's business landscape, managing a multi-cloud ecosystem might seem intricate and overwhelming. Organizations often grapple with juggling multiple cloud platforms, ensuring seamless integration, optimizing costs, and maintaining security across diverse environments.<br/><br/> The complexity of monitoring performance, scaling resources, and aligning cloud strategies with business goals can be a challenge. However, with the right expertise and tools, multi-cloud management transforms from a burden into a competitive advantage. That’s where Beau Roi comes in—empowering businesses with the clarity and control they need to navigate their cloud ecosystems effectively.
     </p>
   </div>
 
@@ -127,10 +127,10 @@ const Page = () => {
   {/* Right Text Section */}
   <div className="max-w-lg w-full text-center md:text-left">
     <h2 className="text-2xl md:text-3xl font-bold text-blue-900">
-    Your Multi-Cloud Journey at Beauroi
+    Your Multi-Cloud Journey at Beau Roi
     </h2>
     <p className="text-gray-700 mt-4 leading-relaxed">
-      At Beauroi, we take the complexity out of multi-cloud management, offering a structured and streamlined approach tailored to your business needs. With our seasoned experts and cutting-edge tools, we provide complete oversight of your cloud environment, ensuring transparency in usage, cost efficiency, and peak performance optimization. <br/><br/>Our approach includes strategic cloud governance, proactive monitoring, and automation-driven insights to enhance agility and scalability. Whether you’re optimizing an existing multi-cloud setup or embarking on a new cloud journey, we ensure a seamless experience with minimal disruptions.
+      At Beau Roi, we take the complexity out of multi-cloud management, offering a structured and streamlined approach tailored to your business needs. With our seasoned experts and cutting-edge tools, we provide complete oversight of your cloud environment, ensuring transparency in usage, cost efficiency, and peak performance optimization. <br/><br/>Our approach includes strategic cloud governance, proactive monitoring, and automation-driven insights to enhance agility and scalability. Whether you’re optimizing an existing multi-cloud setup or embarking on a new cloud journey, we ensure a seamless experience with minimal disruptions.
     </p>
   </div>
 </div>

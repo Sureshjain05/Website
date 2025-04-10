@@ -19,13 +19,13 @@ const bankingData = [
   {
     title: '"Smarter Decisions with PETALL!"',
     description:
-      "Using BeauRoi PETALL Platform has transformed our operations! It's fast, user-friendly, and simplifies our workflow. The real-time insights make tracking performance effortless, helping us grow our business with confidence.",
+      "Using Beau Roi PETALL Platform has transformed our operations! It's fast, user-friendly, and simplifies our workflow. The real-time insights make tracking performance effortless, helping us grow our business with confidence.",
     image: "/PETALL.webp",
   },
   {
     title: '"A Perfect Solution for Our Online Store!"',
     description:
-      "BeauRoi made setting up my online store effortless! They provided a user-friendly, fast, and feature-rich platform tailored to my needs. Managing inventory, orders, and payments is seamless, helping me grow my business with ease. Highly recommended for anyone looking for a custom eCommerce solution",
+      "Beau Roi made setting up my online store effortless! They provided a user-friendly, fast, and feature-rich platform tailored to my needs. Managing inventory, orders, and payments is seamless, helping me grow my business with ease. Highly recommended for anyone looking for a custom eCommerce solution",
     image: "/Ecom.avif",
   },
   {
@@ -72,7 +72,7 @@ const Page = () => {
         <br />
       </h1>
       <p className="text-lg text-gray-700 mt-4">
-      Beauroi delivers bespoke, high-performance application development solutions, transforming your vision into scalable, efficient, and future-ready software.
+      Beau Roi delivers bespoke, high-performance application development solutions, transforming your vision into scalable, efficient, and future-ready software.
       </p>
     </div>
 
@@ -132,7 +132,7 @@ const Page = () => {
     Your Application Development Journey at Beauroi
     </h2>
     <p className="text-gray-700 mt-4 leading-relaxed">
-    At Beauroi, we believe that software should be more than just a tool—it should be a catalyst for transformation. Our application development journey begins with a deep understanding of your vision, operational needs, and long-term objectives. Through collaborative ideation, we design and build intuitive, high-performance applications that seamlessly integrate with your existing systems.<br/><br/> We leverage the latest technologies, industry best practices, and agile methodologies to ensure flexibility, security, and scalability. From initial concept and development to deployment and ongoing support, our team ensures a seamless experience, allowing you to stay ahead in an increasingly competitive digital world. With Beauroi, your vision becomes reality through flawlessly crafted, innovative software solutions.
+    At Beau Roi, we believe that software should be more than just a tool—it should be a catalyst for transformation. Our application development journey begins with a deep understanding of your vision, operational needs, and long-term objectives. Through collaborative ideation, we design and build intuitive, high-performance applications that seamlessly integrate with your existing systems.<br/><br/> We leverage the latest technologies, industry best practices, and agile methodologies to ensure flexibility, security, and scalability. From initial concept and development to deployment and ongoing support, our team ensures a seamless experience, allowing you to stay ahead in an increasingly competitive digital world. With Beau Roi, your vision becomes reality through flawlessly crafted, innovative software solutions.
     </p>
   </div>
 </div>

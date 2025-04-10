@@ -19,13 +19,13 @@ const bankingData = [
   {
     title: '"Smarter Decisions with PETALL!"',
     description:
-      "Using BeauRoi PETALL Platform has transformed our operations! It's fast, user-friendly, and simplifies our workflow. The real-time insights make tracking performance effortless, helping us grow our business with confidence.",
+      "Using Beau Roi PETALL Platform has transformed our operations! It's fast, user-friendly, and simplifies our workflow. The real-time insights make tracking performance effortless, helping us grow our business with confidence.",
     image: "/PETALL.webp",
   },
   {
     title: '"A Perfect Solution for Our Online Store!"',
     description:
-      "BeauRoi made setting up my online store effortless! They provided a user-friendly, fast, and feature-rich platform tailored to my needs. Managing inventory, orders, and payments is seamless, helping me grow my business with ease. Highly recommended for anyone looking for a custom eCommerce solution",
+      "Beau Roi made setting up my online store effortless! They provided a user-friendly, fast, and feature-rich platform tailored to my needs. Managing inventory, orders, and payments is seamless, helping me grow my business with ease. Highly recommended for anyone looking for a custom eCommerce solution",
     image: "/Ecom.avif",
   },
   {
@@ -72,7 +72,7 @@ const Page = () => {
         <br />
       </h1>
       <p className="text-lg text-gray-700 mt-4">
-      Beauroi's Time & Material services provide flexible, expert-driven solutions, ensuring seamless integration, cost efficiency, and measurable success.
+      Beau Roi's Time & Material services provide flexible, expert-driven solutions, ensuring seamless integration, cost efficiency, and measurable success.
       </p>
     </div>
 
@@ -129,10 +129,10 @@ const Page = () => {
   {/* Right Text Section */}
   <div className="max-w-lg w-full text-center md:text-left">
     <h2 className="text-2xl md:text-3xl font-bold text-blue-900">
-    Your Time & Material Journey at Beauroi
+    Your Time & Material Journey at Beau Roi
     </h2>
     <p className="text-gray-700 mt-4 leading-relaxed">
-    At Beauroi, our Time & Material services go beyond just staffing solutions—they are about strategic partnership and seamless integration. Our staff augmentation approach provides businesses with seasoned experts who quickly assimilate into company culture and workflows, ensuring minimal disruption and maximum productivity. We carefully select professionals who align with your project requirements, allowing for swift onboarding and immediate contribution.<br/><br/> By eliminating the complexities of traditional recruitment and ensuring smooth collaboration, we enable organizations to stay agile and focused on their core objectives. With Beauroi, you gain not just resources but a trusted extension of your team, ensuring success at every stage of your project.
+    At Beau Roi, our Time & Material services go beyond just staffing solutions—they are about strategic partnership and seamless integration. Our staff augmentation approach provides businesses with seasoned experts who quickly assimilate into company culture and workflows, ensuring minimal disruption and maximum productivity. We carefully select professionals who align with your project requirements, allowing for swift onboarding and immediate contribution.<br/><br/> By eliminating the complexities of traditional recruitment and ensuring smooth collaboration, we enable organizations to stay agile and focused on their core objectives. With Beau Roi, you gain not just resources but a trusted extension of your team, ensuring success at every stage of your project.
     </p>
   </div>
 </div>

@@ -19,13 +19,13 @@ const bankingData = [
   {
     title: '"Smarter Decisions with PETALL!"',
     description:
-      "Using BeauRoi PETALL Platform has transformed our operations! It's fast, user-friendly, and simplifies our workflow. The real-time insights make tracking performance effortless, helping us grow our business with confidence.",
+      "Using Beau Roi PETALL Platform has transformed our operations! It's fast, user-friendly, and simplifies our workflow. The real-time insights make tracking performance effortless, helping us grow our business with confidence.",
     image: "/PETALL.webp",
   },
   {
     title: '"A Perfect Solution for Our Online Store!"',
     description:
-      "BeauRoi made setting up my online store effortless! They provided a user-friendly, fast, and feature-rich platform tailored to my needs. Managing inventory, orders, and payments is seamless, helping me grow my business with ease. Highly recommended for anyone looking for a custom eCommerce solution",
+      "Beau Roi made setting up my online store effortless! They provided a user-friendly, fast, and feature-rich platform tailored to my needs. Managing inventory, orders, and payments is seamless, helping me grow my business with ease. Highly recommended for anyone looking for a custom eCommerce solution",
     image: "/Ecom.avif",
   },
   {
@@ -71,7 +71,7 @@ const Page = () => {
         <br />
       </h1>
       <p className="text-lg text-gray-700 mt-4">
-      Beauroi’s Strategic IT Consultation transforms technology into a growth enabler through expert guidance, seamless execution, and continuous support.
+      Beau Roi’s Strategic IT Consultation transforms technology into a growth enabler through expert guidance, seamless execution, and continuous support.
       </p>
     </div>
 
@@ -128,10 +128,10 @@ const Page = () => {
   {/* Right Text Section */}
   <div className="max-w-lg w-full text-center md:text-left">
     <h2 className="text-2xl md:text-3xl font-bold text-blue-900">
-    Your IT Consultation Journey at Beauroi
+    Your IT Consultation Journey at Beau Roi
     </h2>
     <p className="text-gray-700 mt-4 leading-relaxed">
-    At Beauroi, IT consultation is a strategic partnership built on trust, expertise, and continuous support. Our journey begins by understanding your business challenges, assessing your current IT landscape, and crafting tailored solutions that align with your long-term vision. We ensure a smooth transition from planning to execution, facilitating seamless adoption and operational efficiency. Through proactive guidance, real-time insights, and dedicated support, we help businesses adapt to evolving technological trends and industry demands. <br/><br/>Our mission is to amplify the value of your technological investments, ensuring success at every step of your IT journey with confidence and precision.
+    At Beau Roi, IT consultation is a strategic partnership built on trust, expertise, and continuous support. Our journey begins by understanding your business challenges, assessing your current IT landscape, and crafting tailored solutions that align with your long-term vision. We ensure a smooth transition from planning to execution, facilitating seamless adoption and operational efficiency. Through proactive guidance, real-time insights, and dedicated support, we help businesses adapt to evolving technological trends and industry demands. <br/><br/>Our mission is to amplify the value of your technological investments, ensuring success at every step of your IT journey with confidence and precision.
     </p>
   </div>
 </div>

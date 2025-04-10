@@ -19,13 +19,13 @@ const bankingData = [
   {
     title: '"Smarter Decisions with PETALL!"',
     description:
-      "Using BeauRoi PETALL Platform has transformed our operations! It's fast, user-friendly, and simplifies our workflow. The real-time insights make tracking performance effortless, helping us grow our business with confidence.",
+      "Using Beau Roi PETALL Platform has transformed our operations! It's fast, user-friendly, and simplifies our workflow. The real-time insights make tracking performance effortless, helping us grow our business with confidence.",
     image: "/PETALL.webp",
   },
   {
     title: '"A Perfect Solution for Our Online Store!"',
     description:
-      "BeauRoi made setting up my online store effortless! They provided a user-friendly, fast, and feature-rich platform tailored to my needs. Managing inventory, orders, and payments is seamless, helping me grow my business with ease. Highly recommended for anyone looking for a custom eCommerce solution",
+      "Beau Roi made setting up my online store effortless! They provided a user-friendly, fast, and feature-rich platform tailored to my needs. Managing inventory, orders, and payments is seamless, helping me grow my business with ease. Highly recommended for anyone looking for a custom eCommerce solution",
     image: "/Ecom.avif",
   },
   {
@@ -72,7 +72,7 @@ const Page = () => {
         <span className="text-teal-950">Shaping a Limitless Tomorrow</span>
       </h1>
       <p className="text-lg text-gray-700 mt-2">
-        Beauroi empowers businesses with Augmental AI, transforming data into 
+        Beau Roi empowers businesses with Augmental AI, transforming data into 
         intelligence and decisions into success.
       </p>
     </div>
@@ -132,11 +132,11 @@ const Page = () => {
   {/* Right Text Section */}
   <div className="max-w-lg w-full text-center md:text-left">
     <h2 className="text-2xl md:text-3xl font-bold text-blue-900">
-      Your AI Journey with Beauroi
+      Your AI Journey with Beau Roi
     </h2>
     <p className="text-gray-700 mt-4 leading-relaxed">
-      At Beauroi, we don’t just implement AI; we guide you through this revolutionary journey. From raw data to actionable insights, we ensure AI-driven success at every step. With our expertise, your organization can embrace the full power of Augmental AI, turning complexity into clarity and potential into progress.<br/><br/>
-      Let Beauroi lead the way—where data meets decision, and intelligence meets impact.
+      At Beau Roi, we don’t just implement AI; we guide you through this revolutionary journey. From raw data to actionable insights, we ensure AI-driven success at every step. With our expertise, your organization can embrace the full power of Augmental AI, turning complexity into clarity and potential into progress.<br/><br/>
+      Let Beau Roi lead the way—where data meets decision, and intelligence meets impact.
     </p>
   </div>
 </div>

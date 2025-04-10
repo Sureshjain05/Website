@@ -195,7 +195,7 @@ const Services = () => {
 
     <div className="bg-white py-16">
       <h2 className="text-3xl font-bold text-center text-stone-950 mb-12">
-        Advantage of BeauRoi
+        Advantage of Beau Roi
       </h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-12 text-center max-w-5xl mx-auto">
         

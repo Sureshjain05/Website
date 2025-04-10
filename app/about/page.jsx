@@ -29,7 +29,7 @@ export default function Home() {
   {/* Title */}
   <div className="relative z-10 text-center">
     <h1 className="text-white max-sm:text-3xl text-7xl font-extrabold tracking-wide drop-shadow-md">
-      About <span className="text-purple-400">BeauRoi</span>
+      About <span className="text-white-400">Beau Roi</span>
     </h1>
   </div>
 </div>

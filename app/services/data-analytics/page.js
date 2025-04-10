@@ -19,13 +19,13 @@ const bankingData = [
   {
     title: '"Smarter Decisions with PETALL!"',
     description:
-      "Using BeauRoi PETALL Platform has transformed our operations! It's fast, user-friendly, and simplifies our workflow. The real-time insights make tracking performance effortless, helping us grow our business with confidence.",
+      "Using Beau Roi PETALL Platform has transformed our operations! It's fast, user-friendly, and simplifies our workflow. The real-time insights make tracking performance effortless, helping us grow our business with confidence.",
     image: "/PETALL.webp",
   },
   {
     title: '"A Perfect Solution for Our Online Store!"',
     description:
-      "BeauRoi made setting up my online store effortless! They provided a user-friendly, fast, and feature-rich platform tailored to my needs. Managing inventory, orders, and payments is seamless, helping me grow my business with ease. Highly recommended for anyone looking for a custom eCommerce solution",
+      "Beau Roi made setting up my online store effortless! They provided a user-friendly, fast, and feature-rich platform tailored to my needs. Managing inventory, orders, and payments is seamless, helping me grow my business with ease. Highly recommended for anyone looking for a custom eCommerce solution",
     image: "/Ecom.avif",
   },
   {
@@ -71,7 +71,7 @@ const Page = () => {
         <br />
       </h1>
       <p className="text-lg text-gray-700 mt-4">
-      Beauroi transforms complex data into actionable insights, empowering businesses with advanced analytics for smarter decisions and sustained growth.
+      Beau Roi transforms complex data into actionable insights, empowering businesses with advanced analytics for smarter decisions and sustained growth.
       </p>
     </div>
 
@@ -128,10 +128,10 @@ const Page = () => {
   {/* Right Text Section */}
   <div className="max-w-lg w-full text-center md:text-left">
     <h2 className="text-2xl md:text-3xl font-bold text-blue-900">
-    Your  Data & Analytics Journey at Beauroi
+    Your  Data & Analytics Journey at Beau Roi
     </h2>
     <p className="text-gray-700 mt-4 leading-relaxed">
-    At Beauroi, we empower businesses with advanced data analytics solutions, turning complex data into actionable intelligence. Our journey begins with understanding your unique data landscape and business objectives. Using cutting-edge tools and machine learning algorithms, we process and analyze data to extract valuable insights that fuel strategic decision-making. From predictive analytics that forecasts future trends to real-time data monitoring that enhances operational agility, we provide customized solutions tailored to your needs.<br/><br/> Our experts ensure that data is not just collected but effectively leveraged to drive measurable outcomes. With Beauroi, your data becomes a powerful asset, enabling smarter decisions, improved efficiency, and sustainable growth.
+    At Beau Roi, we empower businesses with advanced data analytics solutions, turning complex data into actionable intelligence. Our journey begins with understanding your unique data landscape and business objectives. Using cutting-edge tools and machine learning algorithms, we process and analyze data to extract valuable insights that fuel strategic decision-making. From predictive analytics that forecasts future trends to real-time data monitoring that enhances operational agility, we provide customized solutions tailored to your needs.<br/><br/> Our experts ensure that data is not just collected but effectively leveraged to drive measurable outcomes. With Beau Roi, your data becomes a powerful asset, enabling smarter decisions, improved efficiency, and sustainable growth.
     </p>
   </div>
 </div>

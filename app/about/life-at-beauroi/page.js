@@ -25,7 +25,7 @@ const images = [
       position: "Director - Cloud",
       image: "/Prem PP.png",
       feedback:
-        "Working at BeauRoi has been an incredible experience. The culture is innovative, and I feel valued every day!",
+        "Working at Beau Roi has been an incredible experience. The culture is innovative, and I feel valued every day!",
     },
     {
       id: 2,
@@ -33,7 +33,7 @@ const images = [
       position: "Director - Application",
       image: "/Kamal.png",
       feedback:
-        "BeauRoi has given me countless opportunities to grow. I truly enjoy collaborating with my talented teammates!",
+        "Beau Roi has given me countless opportunities to grow. I truly enjoy collaborating with my talented teammates!",
     },
     {
       id: 3,
@@ -49,7 +49,7 @@ const images = [
       position: "Director - Sales",
       image: "/Joseph Crosvin.png",
       feedback:
-        "BeauRoi fosters a creative and collaborative environment where ideas are valued. It's a fantastic place to grow and innovate!",
+        "Beau Roi fosters a creative and collaborative environment where ideas are valued. It's a fantastic place to grow and innovate!",
     },
     {
       id: 5,
@@ -57,7 +57,7 @@ const images = [
       position: "HR Manager",
       image: "/Gayathiri.png",
       feedback:
-        "The opportunities for learning and development at BeauRoi are unmatched. Every day brings a new challenge and a chance to excel!",
+        "The opportunities for learning and development at Beau Roi are unmatched. Every day brings a new challenge and a chance to excel!",
     },
     {
       id: 6,
@@ -65,7 +65,7 @@ const images = [
       position: "Public Relations Officer (PRO)",
       image: "/Sanjay GS.png",
       feedback:
-        "The supportive leadership and teamwork culture at BeauRoi make it a great place to work. I feel truly appreciated here!",
+        "The supportive leadership and teamwork culture at Beau Roi make it a great place to work. I feel truly appreciated here!",
     },
   ];
   const countries = [
@@ -122,12 +122,12 @@ const LifeAtCompany = () => {
       {/* Left Content - Aligned to Top */}
       <div className="w-full md:w-1/2 flex flex-col justify-start">
         <h2 className="text-xl md:text-2xl font-bold text-blue-900 text-start">
-          Why BeauRoi ?
+          Why Beau Roi ?
         </h2>
         <p className="text-gray-700 mt-4 text-1xl leading-relaxed text-start">
-        At Beauroi, we foster a culture of innovation, collaboration, and growth. With mentorship programs, 
+        At Beau Roi, we foster a culture of innovation, collaboration, and growth. With mentorship programs, 
         challenging projects, and clear career advancement opportunities, we empower our team to thrive. 
-        We prioritize work-life balance, open communication, and continuous learning, making Beauroi the perfect place to 
+        We prioritize work-life balance, open communication, and continuous learning, making Beau Roi the perfect place to 
         build your future.
         </p>
       </div>
@@ -155,11 +155,11 @@ const LifeAtCompany = () => {
       Our Culture
     </h2>
     <p className="text-gray-700 mt-4 text-1xl leading-relaxed text-start">
-    At Beauroi, our culture is built on collaboration, inclusivity, and innovation. 
+    At Beau Roi, our culture is built on collaboration, inclusivity, and innovation. 
     We embrace diversity and create an environment where every voice is valued, ideas are celebrated, 
     and teamwork drives success. With a strong focus on mutual respect and continuous learning, 
     we empower our people to grow both professionally and personally. Whether it’s fostering creativity, 
-    promoting work-life balance, or encouraging open communication, we ensure that Beauroi is a place where everyone feels 
+    promoting work-life balance, or encouraging open communication, we ensure that Beau Roi is a place where everyone feels 
     inspired, supported, and motivated to achieve their best.
     </p>
   </div>
@@ -188,7 +188,7 @@ const LifeAtCompany = () => {
         Employee Testimonials
       </h2>
       <p className="text-gray-600 mt-2">
-        Hear what our employees have to say about working at BeauRoi!
+        Hear what our employees have to say about working at Beau Roi!
       </p>
 
       <div className="relative flex items-center justify-center mt-8">
@@ -236,7 +236,7 @@ const LifeAtCompany = () => {
 
     <div className="max-w-6xl mx-auto text-center mt-10 p-6">
       <h2 className="text-2xl md:text-3xl font-bold text-blue-900">
-        Our Global BeauRoi Team
+        Our Global Beau Roi Team
       </h2>
       <p className="text-gray-600 mt-2">
       Our diverse team embodies our dedication to fostering sustainable growth within our industry and communities.

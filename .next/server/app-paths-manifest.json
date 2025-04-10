@@ -1,7 +1,22 @@
 {
-  "/about/page": "app/about/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/about/life-at-beauroi/page": "app/about/life-at-beauroi/page.js",
+  "/apply/page": "app/apply/page.js",
+  "/about/page": "app/about/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/casestudies/page": "app/casestudies/page.js",
   "/csr/page": "app/csr/page.js",
+  "/service-form/page": "app/service-form/page.js",
+  "/joinus/page": "app/joinus/page.js",
   "/page": "app/page.js",
-  "/services/page": "app/services/page.js"
+  "/partner/cloud/page": "app/partner/cloud/page.js",
+  "/services/ai/page": "app/services/ai/page.js",
+  "/services/24-7/page": "app/services/24-7/page.js",
+  "/services/application-development/page": "app/services/application-development/page.js",
+  "/services/data-analytics/page": "app/services/data-analytics/page.js",
+  "/services/it-consultation/page": "app/services/it-consultation/page.js",
+  "/services/multicloud-computing/page": "app/services/multicloud-computing/page.js",
+  "/services/page": "app/services/page.js",
+  "/services/training-development/page": "app/services/training-development/page.js",
+  "/services/time-material/page": "app/services/time-material/page.js"
 }

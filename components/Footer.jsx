@@ -53,7 +53,7 @@ const Footer = () => {
                   <a href="/partner/cloud" className="hover:underline">Google</a>
                 </li>
                 <li className="mb-4">
-                  <a href="/about/life-at-beauroi" className="hover:underline">Azure</a>
+                  <a href="/" className="hover:underline">Azure</a>
                 </li>
                 <li className="mb-4">
                   <a href="/" className="hover:underline">AWS</a>
@@ -70,7 +70,7 @@ const Footer = () => {
               <h2 className="text-sm font-semibold text-white uppercase mb-4">Services</h2>
               <ul className="text-gray-400 font-medium">
                 <li className="mb-4">
-                  <a href="/services/data-and-analytics" className="hover:underline">Data & Analytics</a>
+                  <a href="/services/data-analytics" className="hover:underline">Data & Analytics</a>
                 </li>
                 <li className="mb-4">
                   <a href="/services/multicloud-computing" className="hover:underline">Multicloud Computing</a>
@@ -79,10 +79,10 @@ const Footer = () => {
                   <a href="/services/application-development" className="hover:underline">App Development</a>
                 </li>
                 <li className="mb-4">
-                  <a href="/services/strategic-it-consultation" className="hover:underline">IT Consultation</a>
+                  <a href="/services/it-consultation" className="hover:underline">IT Consultation</a>
                 </li>
                 <li className="mb-4">
-                  <a href="/services/augmental-ai" className="hover:underline">AI/ML</a>
+                  <a href="/services/ai" className="hover:underline">AI/ML</a>
                 </li>
                 <li>
                   <a href="/services/24-7" className="hover:underline">24/7</a>
@@ -107,8 +107,11 @@ const Footer = () => {
                 <li className="mb-4">
                   <a href="/about" className="hover:underline">About Us</a>
                 </li>
-                <li>
-                  <a href="" className="hover:underline">Careers</a>
+                <li className="mb-4">
+                  <a href="/joinus" className="hover:underline">Careers</a>
+                </li>
+                <li className="mb-4">
+                  <a href="/about/life-at-beauroi" className="hover:underline">Life at Beau Roi</a>
                 </li>
               </ul>
             </div>

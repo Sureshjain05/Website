@@ -19,13 +19,13 @@ const bankingData = [
   {
     title: '"Smarter Decisions with PETALL!"',
     description:
-      "Using BeauRoi PETALL Platform has transformed our operations! It's fast, user-friendly, and simplifies our workflow. The real-time insights make tracking performance effortless, helping us grow our business with confidence.",
+      "Using Beau Roi PETALL Platform has transformed our operations! It's fast, user-friendly, and simplifies our workflow. The real-time insights make tracking performance effortless, helping us grow our business with confidence.",
     image: "/PETALL.webp",
   },
   {
     title: '"A Perfect Solution for Our Online Store!"',
     description:
-      "BeauRoi made setting up my online store effortless! They provided a user-friendly, fast, and feature-rich platform tailored to my needs. Managing inventory, orders, and payments is seamless, helping me grow my business with ease. Highly recommended for anyone looking for a custom eCommerce solution",
+      "Beau Roi made setting up my online store effortless! They provided a user-friendly, fast, and feature-rich platform tailored to my needs. Managing inventory, orders, and payments is seamless, helping me grow my business with ease. Highly recommended for anyone looking for a custom eCommerce solution",
     image: "/Ecom.avif",
   },
   {
@@ -72,7 +72,7 @@ const Page = () => {
         <br />
       </h1>
       <p className="text-lg text-gray-700 mt-4">
-      Beauroi’s Training & Recruitment services provide industry-ready tech talents, ensuring seamless integration, innovation, and long-term business success.
+      Beau Roi’s Training & Recruitment services provide industry-ready tech talents, ensuring seamless integration, innovation, and long-term business success.
       </p>
     </div>
 
@@ -129,10 +129,10 @@ const Page = () => {
   {/* Right Text Section */}
   <div className="max-w-lg w-full text-center md:text-left">
     <h2 className="text-2xl md:text-3xl font-bold text-blue-900">
-    The Journey of Training & Recruitment at Beauroi
+    The Journey of Training & Recruitment at Beau Roi
     </h2>
     <p className="text-gray-700 mt-4 leading-relaxed">
-    At Beauroi, we go beyond conventional hiring practices, offering a strategic approach to workforce development. Our journey begins with identifying your unique staffing needs and curating a pool of highly skilled professionals who fit seamlessly into your company culture. Through continuous training and skill enhancement programs, we ensure that our talents stay ahead of industry trends and technological advancements. <br/><br/> Our recruitment process focuses on precision and efficiency, delivering professionals who not only meet your technical requirements but also contribute to your long-term success. With Beauroi, you gain more than just employees—you gain dedicated experts committed to driving your business forward.
+    At Beau Roi, we go beyond conventional hiring practices, offering a strategic approach to workforce development. Our journey begins with identifying your unique staffing needs and curating a pool of highly skilled professionals who fit seamlessly into your company culture. Through continuous training and skill enhancement programs, we ensure that our talents stay ahead of industry trends and technological advancements. <br/><br/> Our recruitment process focuses on precision and efficiency, delivering professionals who not only meet your technical requirements but also contribute to your long-term success. With Beau Roi, you gain more than just employees—you gain dedicated experts committed to driving your business forward.
     </p>
   </div>
 </div>

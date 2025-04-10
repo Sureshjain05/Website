@@ -19,13 +19,13 @@ const bankingData = [
   {
     title: '"Smarter Decisions with PETALL!"',
     description:
-      "Using BeauRoi PETALL Platform has transformed our operations! It's fast, user-friendly, and simplifies our workflow. The real-time insights make tracking performance effortless, helping us grow our business with confidence.",
+      "Using Beau Roi PETALL Platform has transformed our operations! It's fast, user-friendly, and simplifies our workflow. The real-time insights make tracking performance effortless, helping us grow our business with confidence.",
     image: "/PETALL.webp",
   },
   {
     title: '"A Perfect Solution for Our Online Store!"',
     description:
-      "BeauRoi made setting up my online store effortless! They provided a user-friendly, fast, and feature-rich platform tailored to my needs. Managing inventory, orders, and payments is seamless, helping me grow my business with ease. Highly recommended for anyone looking for a custom eCommerce solution",
+      "Beau Roi made setting up my online store effortless! They provided a user-friendly, fast, and feature-rich platform tailored to my needs. Managing inventory, orders, and payments is seamless, helping me grow my business with ease. Highly recommended for anyone looking for a custom eCommerce solution",
     image: "/Ecom.avif",
   },
   {
@@ -72,7 +72,7 @@ const Page = () => {
         <br />
       </h1>
       <p className="text-lg text-gray-700 mt-4">
-      Beauroi’s 24/7 support ensures uninterrupted assistance, expert guidance, and unwavering commitment to your success, anytime and anywhere.
+      Beau Roi’s 24/7 support ensures uninterrupted assistance, expert guidance, and unwavering commitment to your success, anytime and anywhere.
       </p>
     </div>
 
@@ -129,10 +129,10 @@ const Page = () => {
   {/* Right Text Section */}
   <div className="max-w-lg w-full text-center md:text-left">
     <h2 className="text-2xl md:text-3xl font-bold text-blue-900">
-    Your 24/7 Support Journey at Beauroi
+    Your 24/7 Support Journey at Beau Roi
     </h2>
     <p className="text-gray-700 mt-4 leading-relaxed">
-    At Beauroi, we believe that continuous support is the backbone of sustained growth and operational efficiency. Our 24/7 assistance journey begins with understanding your unique business needs, ensuring that our support solutions align perfectly with your objectives. <br/> <br/>Whether it’s resolving technical issues, optimizing workflows, or providing strategic insights, our dedicated team is always available to assist you. With a proactive approach, real-time monitoring, and swift problem resolution, we ensure that your business runs smoothly at all times. Consider us your steadfast companion, standing beside you through every challenge and opportunity, delivering uninterrupted support that fuels your success.
+    At Beau Roi, we believe that continuous support is the backbone of sustained growth and operational efficiency. Our 24/7 assistance journey begins with understanding your unique business needs, ensuring that our support solutions align perfectly with your objectives. <br/> <br/>Whether it’s resolving technical issues, optimizing workflows, or providing strategic insights, our dedicated team is always available to assist you. With a proactive approach, real-time monitoring, and swift problem resolution, we ensure that your business runs smoothly at all times. Consider us your steadfast companion, standing beside you through every challenge and opportunity, delivering uninterrupted support that fuels your success.
     </p>
   </div>
 </div>
